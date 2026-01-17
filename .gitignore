@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# 3D assets
+*.usd
+*.STL
+*.stl
+*.dae
+assets/
+meshes/
